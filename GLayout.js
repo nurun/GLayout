@@ -74,7 +74,7 @@ GLayout = function(enhancementRoot){
 			$(document.documentElement).trigger("layout.update");
 
 		};
-		
+		updateLayout();
 		
 	
 	});
